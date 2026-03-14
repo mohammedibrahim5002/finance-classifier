@@ -132,7 +132,4 @@ pip install -r requirements.txt
 * Scikit-learn
 * Joblib
 
----
-"# finance-classifier" 
-"# finance-classifier" 
-"# finance-classifier" 
+--- 
